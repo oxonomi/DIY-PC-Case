@@ -23,17 +23,17 @@ I wanted a PC case small enough to fit in my backpack thta could hold an mATX bo
 
 
 
-![alt text](https://github.com/DIT-PC-Case/images/1-Outer_Front-CAD.PNG "1")
-![alt text](https://github.com/DIT-PC-Case/images/2-Outer_Rear-CAD.PNG "2")
-![alt text](https://github.com/DIT-PC-Case/images/3-Components_Front-CAD.PNG "3")
-![alt text](https://github.com/DIT-PC-Case/images/4-Components_Rear-CAD.PNG "4")
-![alt text](https://github.com/DIT-PC-Case/images/5-Frame_Front-CAD.PNG "5")
-![alt text](https://github.com/DIT-PC-Case/images/6-Frame_Rear-CAD.PNG "6")
-![alt text](https://github.com/DIT-PC-Case/images/7-Frame_Front.jpg "7")
-![alt text](https://github.com/DIT-PC-Case/images/8-Frame_Rear.jpg "8")
-![alt text](https://github.com/DIT-PC-Case/images/9-Components_Front.png "9")
-![alt text](https://github.com/DIT-PC-Case/images/10-Components_Rear.png "10")
-![alt text](https://github.com/DIT-PC-Case/images/11-Finished_Rear.jpg "11")
-![alt text](https://github.com/DIT-PC-Case/images/12-Finished.jpg "12")
+![alt text](https://github.com/DIY-PC-Case/images/1-Outer_Front-CAD.PNG "1")
+![alt text](https://github.com/DIY-PC-Case/images/2-Outer_Rear-CAD.PNG "2")
+![alt text](https://github.com/DIY-PC-Case/images/3-Components_Front-CAD.PNG "3")
+![alt text](https://github.com/DIY-PC-Case/images/4-Components_Rear-CAD.PNG "4")
+![alt text](https://github.com/DIY-PC-Case/images/5-Frame_Front-CAD.PNG "5")
+![alt text](https://github.com/DIY-PC-Case/images/6-Frame_Rear-CAD.PNG "6")
+![alt text](https://github.com/DIY-PC-Case/images/7-Frame_Front.jpg "7")
+![alt text](https://github.com/DIY-PC-Case/images/8-Frame_Rear.jpg "8")
+![alt text](https://github.com/DIY-PC-Case/images/9-Components_Front.png "9")
+![alt text](https://github.com/DIY-PC-Case/images/10-Components_Rear.png "10")
+![alt text](https://github.com/DIY-PC-Case/images/11-Finished_Rear.jpg "11")
+![alt text](https://github.com/DIY-PC-Case/images/12-Finished.jpg "12")
 
 
