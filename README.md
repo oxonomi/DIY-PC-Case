@@ -36,8 +36,9 @@ It's like Lego meets K'nex but for adults.
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/4-Components_Rear-CAD.PNG)
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/5-Frame_Front-CAD.PNG)  
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/6-Frame_Rear-CAD.PNG)  
-No made-to-order parts where used, everything was off the shelve, no machining, the only power tool used was a hand drill.
+I ended up switching to differnt sized top fans so the top cross bar was raised.
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/7-Frame_Front.jpg)  
+No made-to-order parts where used, everything was off the shelve, no machining, the only power tool used was a hand drill.
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/8-Frame_Rear.jpg)  
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/9-Components_Front.png)  
 ![alt text](https://github.com/oxonomi/DIY-PC-Case/blob/main/images/10-Components_Rear.png)  
