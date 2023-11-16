@@ -48,4 +48,6 @@ All pictures were taken when I took it apart after 3 years of daily use, so plea
 <br>
 The only trade off for having such a compact system is the lack of airflow for cooling, I never had any thermal throttling issues however it could get loud under intense loads. I've since retired the case because I wanted to use some compents for another PC and I no longer need an ultra compact powerful PC that fits into a backpack. 
 <br>
+<br>
+<br>
 P.S I know a bottom mounted AIO isn't optimal, get over it Steve.
